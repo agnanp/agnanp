@@ -3,8 +3,7 @@
 	<a href="https://github.com/agnanp"><img alt="GitHub followers" src="https://img.shields.io/github/followers/agnanp?label=agnanp&style=social"></a>
 	<a href="https://www.linkedin.com/in/agnanp/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
-
-I am open to any opportunity especially in IT as a Machine Learning Engineer
+ 
 
 ### Currently working with:  
 <div align="left">  
